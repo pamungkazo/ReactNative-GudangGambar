@@ -1,0 +1,3 @@
+rootProject.name = 'gudanggambar'
+
+include ':app'
